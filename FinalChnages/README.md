@@ -1,4 +1,4 @@
-####  API Endpoint 
+API Endpoint 
 
 ## Manipulating  clients API's:
 
