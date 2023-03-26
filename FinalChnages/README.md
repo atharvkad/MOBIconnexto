@@ -7,7 +7,7 @@
 - PUT /client/{id} - For updating a client
 - DELETE /client/{id} - For deleting a client
 
-# Sample JSON data:
+# Sample JSON data (client):
 
 {
         "id": 1,
@@ -25,7 +25,7 @@
 - PUT /projects/{id} - For updating a project
 - DELETE /projects/{id} - For deleting a project
 
-# Sample JSON data:
+# Sample JSON data (Project):
 {
     "id": 2,
     "name": "c++",
@@ -45,7 +45,7 @@
 - PUT /employee/{id} - For updating a employee
 - DELETE /employeee/{id} - For deleting a employee
 
- # Sample JSON data:
+ # Sample JSON data (Employee):
 
 {
             "id": 1,
@@ -64,7 +64,7 @@
             "leave_balance": "4000"
         }
 
-# Sample JSON data for inserting mapping relation within entities through projects
+# Sample JSON data for inserting mapping relation within entities through projects (project)
 
 {
     "id": 2,
