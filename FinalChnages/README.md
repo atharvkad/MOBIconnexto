@@ -97,9 +97,7 @@
             "manager": "vijay",
             "total_leaves": "1",
             "leave_balance": "4000"
-        }
-        
-    ]
-
+        }]
 }
 
+#
