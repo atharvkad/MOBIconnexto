@@ -1,6 +1,5 @@
-API Endpoint 
 
-## Manipulating  clients API's:
+# Manipulating  clients API's:
 
 - GET /clients - For retrieving all clients
 - GET /client/{id} - For retrieving a specific client
